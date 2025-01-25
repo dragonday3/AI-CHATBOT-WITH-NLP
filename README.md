@@ -27,3 +27,5 @@
 1. **Flask Web Framework**: The application is built using Flask, a lightweight and easy-to-use web framework for Python. Flask allows for quick development and deployment of web applications, making it an ideal choice for this project.
 
 2. **Natural Language Processing with NLTK**: The chatbot utilizes NLTK, a powerful library for working with human language data. NLTK provides tools for tokenization, parsing, classification, and more, enabling the chatbot to understand and respond to user inputs effectively.
+
+3. **Pattern Matching**: The chatbot employs a set of predefined patterns and responses, allowing it to recognize user inputs and generate appropriate replies. This pattern-matching approach is straightforward and effective for handling common queries.
