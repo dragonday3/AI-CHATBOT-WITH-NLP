@@ -44,3 +44,10 @@ The chatbot operates by matching user inputs against a set of predefined regex p
 - **index.html**: The HTML file that serves as the user interface for the chatbot. It includes the structure for the chat box and input field.
 - **static/styles.css**: The CSS file that styles the chatbot interface, ensuring a visually appealing layout.
 - **static/script.js**: The JavaScript file that manages user interactions, sending messages to the backend and updating the chat box with responses.
+
+**TOOLS/TECH. USED:**
+- **Python**: The primary programming language used for developing the application, enabling the implementation of backend logic and natural language processing.
+- **Flask**: A lightweight web framework for Python that facilitates the creation of web applications. It handles routing, request processing, and serves the frontend interface.
+- **NLTK (Natural Language Toolkit)**: A powerful library for natural language processing in Python. It provides tools for working with human language data, including tokenization, parsing, and pattern matching.
+- **HTML**: The markup language used to create the structure of the chatbot's user interface, allowing users to interact with the chatbot through a web browser.
+- **CSS**: A stylesheet language used to style the HTML elements of the chatbot interface, ensuring a visually appealing and user-friendly design.
