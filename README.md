@@ -51,3 +51,5 @@ The chatbot operates by matching user inputs against a set of predefined regex p
 - **NLTK (Natural Language Toolkit)**: A powerful library for natural language processing in Python. It provides tools for working with human language data, including tokenization, parsing, and pattern matching.
 - **HTML**: The markup language used to create the structure of the chatbot's user interface, allowing users to interact with the chatbot through a web browser.
 - **CSS**: A stylesheet language used to style the HTML elements of the chatbot interface, ensuring a visually appealing and user-friendly design.
+- **JavaScript**: A programming language used to add interactivity to the web application. It handles user input, sends messages to the Flask backend, and updates the chat box with responses in real-time.
+- **Regex (Regular Expressions)**: A sequence of characters used for pattern matching in user inputs, allowing the chatbot to identify and respond to various queries effectively.
