@@ -68,3 +68,5 @@ The chatbot operates by matching user inputs against a set of predefined regex p
 4. Access the Chatbot: Open your web browser and navigate to
    - http://127.0.0.1:5000/
    to start chatting with the bot.
+
+# **OUTPUT**
