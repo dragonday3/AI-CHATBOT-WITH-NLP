@@ -56,3 +56,15 @@ The chatbot operates by matching user inputs against a set of predefined regex p
 - **JSON**: A lightweight data interchange format used for sending and receiving data between the frontend and backend, particularly for the chat messages.
 
 **INSTALLATION AND USAGE:**
+1. Clone the repo to your local machine:
+   - git clone https://github.com/dragonday3/AI-CHATBOT-WITH-NLP.git
+
+2. Install the required libraries:
+   - pip install flask nltk
+
+3. Run the Application:
+   - python app.py
+
+4. Access the Chatbot: Open your web browser and navigate to
+   - http://127.0.0.1:5000/
+     to start chatting with the bot.
