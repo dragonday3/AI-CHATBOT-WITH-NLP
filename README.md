@@ -53,3 +53,6 @@ The chatbot operates by matching user inputs against a set of predefined regex p
 - **CSS**: A stylesheet language used to style the HTML elements of the chatbot interface, ensuring a visually appealing and user-friendly design.
 - **JavaScript**: A programming language used to add interactivity to the web application. It handles user input, sends messages to the Flask backend, and updates the chat box with responses in real-time.
 - **Regex (Regular Expressions)**: A sequence of characters used for pattern matching in user inputs, allowing the chatbot to identify and respond to various queries effectively.
+- **JSON**: A lightweight data interchange format used for sending and receiving data between the frontend and backend, particularly for the chat messages.
+
+**INSTALLATION AND USAGE:**
