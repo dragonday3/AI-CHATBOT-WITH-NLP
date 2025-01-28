@@ -70,3 +70,5 @@ The chatbot operates by matching user inputs against a set of predefined regex p
    to start chatting with the bot.
 
 # **OUTPUT**
+![Image](https://github.com/user-attachments/assets/e792c167-ab06-4346-9532-80c82329553a)
+
