@@ -71,4 +71,4 @@ The chatbot operates by matching user inputs against a set of predefined regex p
 
 # **OUTPUT**
 ![Image](https://github.com/user-attachments/assets/e792c167-ab06-4346-9532-80c82329553a)
-
+![Image](https://github.com/user-attachments/assets/c52dbd1e-6f7f-49a3-b3d6-e2fecdc5e81f)
