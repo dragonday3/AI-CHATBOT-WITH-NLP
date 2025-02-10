@@ -4,8 +4,6 @@
 
 **DOMAIN**: PYTHON PROGRAMMING
 
-**BATCH DURATION**: December 25th, 2024 to February 25th, 2025
-
 # **BotBuddy: AI Chatbot with NLP**
 
 **BotBuddy** implements a simple yet effective chatbot using the Flask web framework and the Natural Language Toolkit (NLTK) for natural language processing. The chatbot is designed to engage users in conversation, answer questions, and provide information based on predefined patterns. It serves as a foundational example of how to create a web-based chatbot application, making it an excellent resource for those interested in natural language processing and web development.
