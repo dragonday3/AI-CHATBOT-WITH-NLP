@@ -1,7 +1,5 @@
 # AI-CHATBOT-WITH-NLP
 
-**NAME**: KAIRAVI SHAH
-
 **DOMAIN**: PYTHON PROGRAMMING
 
 # **BotBuddy: AI Chatbot with NLP**
